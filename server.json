@@ -1,0 +1,608 @@
+{
+  "tags": [
+    {
+      "title": "React JS",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 193
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 186
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 121
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 149
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 179
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 127
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 3
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 8
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 172
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 179
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 123
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 161
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 184
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 178
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 102
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 199
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 106
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 66
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 193
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 152
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 13
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 188
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 124
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 7
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 199
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 13
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 3
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 192
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 198
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 177
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 113
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 13
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 8
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 182
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 167
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 131
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 17
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 108
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 169
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 74
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 132
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 146
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 111
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 108
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 134
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 186
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 111
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 147
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 121
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 102
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 86
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 192
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 146
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 84
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 139
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 174
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 131
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 136
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 8
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 15
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 172
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 154
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 158
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 11
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 186
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 167
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 147
+    }
+  ]  
+}
